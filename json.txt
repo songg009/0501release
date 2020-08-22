@@ -1,0 +1,66 @@
+{
+    "assetcontent": {
+        "assettype": "1",
+        "assetdesc": "3",
+        "assetoperation": "1",
+        "content": {
+            "videos": {
+                "file": {
+                    "fileid": "f0743f7d-3e78-4ee6-85ab-3528a116ed90",
+                    "originalid": "E20160414132133922",
+                    "partid": "97f3a35c-4d05-4a01-867f-54282a707857",
+                    "oripartid": "E901211",
+                    "assetid": "454da2e6-4c5f-4c61-b7ff-0642b6d39f71",
+                    "oriassetid": "E47803",
+                    "filename": "/c1/2016/dianying/4/14/luoshan/15cff96b91830f318c6a37c9eccf676cf.ts",
+                    "fileformatdesc": "1",
+                    "filesize": "670047980",
+                    "filebitrate": "1012",
+                    "fileduration": "5169",
+                    "fileformat": ".ts",
+                    "is3d": null,
+                    "filehash": "419040",
+                    "videobitrate": "905957",
+                    "videoformat": "AVC",
+                    "videoinfo": "Advanced Video Codec",
+                    "videointroduction": "High@L3.0",
+                    "videowidth": "720",
+                    "videoheight": "400",
+                    "videoscale": "16:9",
+                    "videolength": null,
+                    "videosetcabac": "Yes",
+                    "formatsetreframes": "5",
+                    "framerate": "25.000",
+                    "criterion": null,
+                    "vga": "720*400",
+                    "colorimetry": "4:2:0",
+                    "scantype": "Progressive",
+                    "datadensity": null,
+                    "encodedlibrary": "ImgoTV Codec 2.0",
+                    "encodedlibset": "ImgoEncoder",
+                    "audioformat": "AAC",
+                    "audioinfo": "Advanced Audio Codec",
+                    "audiointrodution": "LC",
+                    "audioversion": "Version 4",
+                    "audiomuxingmode": null,
+                    "audioduration": "5168619",
+                    "audiotrack": "2",
+                    "audiosampling": "48000",
+                    "audioratemode": "VBR",
+                    "entityfileid": null,
+                    "filesource": null,
+                    "isdrm": null,
+                    "encryptsolution": null,
+                    "thirdfileid": null,
+                    "overallbitratemode": "VBR",
+                    "createtime": "2016-04-14 13:18:48"
+                }
+            }
+        },
+        "info": {
+            "pushcode": "2CE4530CE35B43CF8D969BA81B690F02",
+            "queuename": "hunanyouxian_assetInfo",
+            "contentprovider": null
+        }
+    }
+}

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assetcontent>
+   <assettype>1</assettype>
+   <assetdesc>3</assetdesc>
+   <assetoperation>1</assetoperation>
+   <content>
+      <videos>
+         <file>
+            <fileid><![CDATA[f0743f7d-3e78-4ee6-85ab-3528a116ed90]]></fileid>
+            <originalid><![CDATA[E20160414132133922]]></originalid>
+            <partid><![CDATA[97f3a35c-4d05-4a01-867f-54282a707857]]></partid>
+            <oripartid><![CDATA[E901211]]></oripartid>
+            <assetid><![CDATA[454da2e6-4c5f-4c61-b7ff-0642b6d39f71]]></assetid>
+            <oriassetid><![CDATA[E47803]]></oriassetid>
+            <filename><![CDATA[/c1/2016/dianying/4/14/luoshan/15cff96b91830f318c6a37c9eccf676cf.ts]]></filename>
+            <fileformatdesc><![CDATA[1]]></fileformatdesc>
+            <filesize><![CDATA[670047980]]></filesize>
+            <filebitrate><![CDATA[1012]]></filebitrate>
+            <fileduration><![CDATA[5169]]></fileduration>
+            <fileformat><![CDATA[.ts]]></fileformat>
+            <is3d><![CDATA[]]></is3d>
+            <filehash><![CDATA[419040]]></filehash>
+            <videobitrate><![CDATA[905957]]></videobitrate>
+            <videoformat><![CDATA[AVC]]></videoformat>
+            <videoinfo><![CDATA[Advanced Video Codec]]></videoinfo>
+            <videointroduction><![CDATA[High@L3.0]]></videointroduction>
+            <videowidth><![CDATA[720]]></videowidth>
+            <videoheight><![CDATA[400]]></videoheight>
+            <videoscale><![CDATA[16:9]]></videoscale>
+            <videolength><![CDATA[]]></videolength>
+            <videosetcabac><![CDATA[Yes]]></videosetcabac>
+            <formatsetreframes><![CDATA[5]]></formatsetreframes>
+            <framerate><![CDATA[25.000]]></framerate>
+            <criterion><![CDATA[]]></criterion>
+            <vga><![CDATA[720*400]]></vga>
+            <colorimetry><![CDATA[4:2:0]]></colorimetry>
+            <scantype><![CDATA[Progressive]]></scantype>
+            <datadensity><![CDATA[]]></datadensity>
+            <encodedlibrary><![CDATA[ImgoTV Codec 2.0]]></encodedlibrary>
+            <encodedlibset><![CDATA[ImgoEncoder]]></encodedlibset>
+            <audioformat><![CDATA[AAC]]></audioformat>
+            <audioinfo><![CDATA[Advanced Audio Codec]]></audioinfo>
+            <audiointrodution><![CDATA[LC]]></audiointrodution>
+            <audioversion><![CDATA[Version 4]]></audioversion>
+            <audiomuxingmode><![CDATA[]]></audiomuxingmode>
+            <audioduration><![CDATA[5168619]]></audioduration>
+            <audiotrack><![CDATA[2]]></audiotrack>
+            <audiosampling><![CDATA[48000]]></audiosampling>
+            <audioratemode><![CDATA[VBR]]></audioratemode>
+            <entityfileid><![CDATA[]]></entityfileid>
+            <filesource><![CDATA[]]></filesource>
+            <isdrm><![CDATA[]]></isdrm>
+            <encryptsolution><![CDATA[]]></encryptsolution>
+            <thirdfileid><![CDATA[]]></thirdfileid>
+            <overallbitratemode><![CDATA[VBR]]></overallbitratemode>
+            <createtime><![CDATA[2016-04-14 13:18:48]]></createtime>
+         </file>
+      </videos>
+   </content>
+   <info>
+      <pushcode><![CDATA[2CE4530CE35B43CF8D969BA81B690F02]]></pushcode>
+      <queuename><![CDATA[hunanyouxian_assetInfo]]></queuename>
+      <contentprovider><![CDATA[]]></contentprovider>
+   </info>
+</assetcontent>
